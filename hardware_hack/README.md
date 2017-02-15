@@ -10,7 +10,7 @@ This project uses this $9 RC car available at Walmart:
 * Desoldered original connections to the battery compartment
 * Red to the positive. Yellow to the negative.
 
-## The innards
+## Photos
 
 ![](car.jpg)
 ![](remote_power.jpg)
