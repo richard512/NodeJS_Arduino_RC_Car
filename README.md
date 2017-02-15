@@ -1,7 +1,7 @@
 NodeJS Arduino RC Car
 ===============================
 
-<img src="hardware_hack/wiring_it_up.jpg" width="320" height="320"> ![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)
+<img src="hardware_hack/wiring_it_up.jpg" width="320" height="320"> ![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video/demo.gif?raw=true)
 
 ## The Idea
 
@@ -11,9 +11,9 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## The [Hardware Hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 
-## The [Basic Arduino Code](back_forward.ino)
+## The [Basic Arduino Code](Arduino/back_forward.ino)
 
-## The [Advanced Arduino Code](serial_port_controlled_car.ino)
+## The [Advanced Arduino Code](Arduino/serial_port_controlled_car.ino)
 
 ## Set up the UI
 
@@ -21,7 +21,7 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 * Change ```portName``` in ```app.coffee``` to your serial device
 * coffee app.coffee
 * Go to http://localhost:5000
-* Take a look at: [public/app.js](public/app.js) and [views/index.hamlc](views/index.hamlc)
+* Take a look at: [NodeJS/public/app.js](NodeJS/public/app.js) and [views/index.hamlc](NodeJS/views/index.hamlc)
 
 ## Arduino Controls
 
