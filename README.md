@@ -14,12 +14,13 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 ## The [Advanced Arduino Code](serial_port_controlled_car.ino)
 
 ## Set up the UI
+
+You'll probably run into some errors along the way. Keep at it and you'll get it.
+
 * npm install coffee-script haml-coffee express.io express express-partials serialport
 * Change ```portName``` in ```app.coffee``` to your serial device
 * coffee app.coffee
-* Something probably broke. It's Google time!
 * Go to http://localhost:5000
-* Something probably broke. It's Google time!
 * Take a look at: [public/app.js](public/app.js) and [views/index.hamlc](views/index.hamlc)
 
 ## Arduino Controls
