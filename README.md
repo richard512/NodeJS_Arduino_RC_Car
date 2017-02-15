@@ -11,11 +11,10 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## The [Arduino Code](serial_port_controlled_car.ino)
 
-## The UI
-```
-coffee app.coffee
-```
-Then go to http://localhost:5000
+## Set up the UI
+* npm install coffee-script haml-coffee express.io express express-partials serialport
+* coffee app.coffee
+* Go to http://localhost:5000
 
 It'll serve up the content inside the public and the views dir.
 
@@ -36,15 +35,6 @@ Send the following numbers over a serial port connection :
 ## Arduino Dependancies 
 
 * [BasicLibrary](https://github.com/chalkers/BasicLibrary)
-
-## NodeJS Dependancies
-
-* coffee-script
-* haml-coffee
-* express.io
-* express
-* express-partials
-* serialport
 
 
 The MIT License (MIT)
