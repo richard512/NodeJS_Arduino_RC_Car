@@ -9,7 +9,9 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## The [Hardware Hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 
-## The [Arduino Code](serial_port_controlled_car.ino)
+## The [Basic Arduino Code](back_forward.ino)
+
+## The [Advanced Arduino Code](serial_port_controlled_car.ino)
 
 ## Set up the UI
 * npm install coffee-script haml-coffee express.io express express-partials serialport
