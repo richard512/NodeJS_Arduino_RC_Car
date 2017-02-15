@@ -1,7 +1,7 @@
 Extremely Remote Controlled Car
 ===============================
 
-| [![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.mp4?raw=true) | [![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_accelerometer.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_accelerometer.mp4?raw=true) |
+[![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.mp4?raw=true) [![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_accelerometer.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_accelerometer.mp4?raw=true)
 
 ### Here's the related [hardware hack](http://forefront.io/a/hacking-9-buck-remote-controlled-car-with-arduino/)
 
