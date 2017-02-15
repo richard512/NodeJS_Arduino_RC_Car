@@ -5,7 +5,7 @@ NodeJS Arduino RC Car
 
 ## The Idea
 
-Make a web browser able to control a $9 RC Car.
+Make a web browser able to drive a $9 RC Car.
 
 Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC Car
 
