@@ -1,11 +1,13 @@
 Extremely Remote Controlled Car
 ===============================
 
+### Here's the related [hardware hack](http://forefront.io/a/hacking-9-buck-remote-controlled-car-with-arduino/)
+
 This is the Node.js component to control an Arduino via serial port via a web interface.
 
 Desktop (Mouse & Keyboard), Wii U Gamepad and iDevice support. Be sure to lock your screen rotation on iOS in _portrait_.
 
-To see the Arduino component to this project visit https://github.com/chalkers/serial_port_controlled_car
+The Arduino code is inside serial_port_controlled_car.ino
 
 ## Modify it
 
@@ -17,7 +19,23 @@ Edit `app.coffee`.
 coffee app.coffee
 ```
 
-## Dependancies
+## Arduino Controls
+
+Send the following numbers over a serial port connection :
+
+* 0 - forward + left
+* 1 - forward
+* 2 - forward + right
+* 3 - backward + left
+* 4 - backward
+* 5 - backward + right
+* 6 - switches all off
+
+## Arduino Dependancies 
+
+* [BasicLibrary](https://github.com/chalkers/BasicLibrary)
+
+## NodeJS Dependancies
 
 * coffee-script
 * haml-coffee
