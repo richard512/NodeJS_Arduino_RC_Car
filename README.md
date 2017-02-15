@@ -5,7 +5,7 @@ NodeJS Arduino RC Car
 
 ### Here's the related [hardware hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 
-This is the Node.js component to control an Arduino via serial port via a web interface.
+Web interface --> Node.js --> Serial port --> Arduino
 
 Desktop (Mouse & Keyboard), Wii U Gamepad and iDevice support. Be sure to lock your screen rotation on iOS in _portrait_.
 
