@@ -9,8 +9,10 @@ This project uses this $9 RC car available at Walmart:
 * Open up the controller
 * Desolder original connections to the battery compartment
 * Red to the positive. Yellow to the negative.
-* Attach Arduino pin 13 to the spot on the controller board marked TP80
-* Attach Arduino pin 12 to the spot on the controller board marked TP81
+* FOWARD = Attach Arduino pin 13 to the spot on the controller board marked TP80
+* BACK = Attach Arduino pin 12 to the spot on the controller board marked TP81
+* LEFT = Attach Arduino pin 8 to the spot on the controller board marked TP82
+* RIGHT = Attach Arduino pin 7 to the spot on the controller board marked TP83
 * Load back_forward.ino into the Arduino and see if it works
 
 ## Photos
