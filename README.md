@@ -15,7 +15,7 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## Set up the UI
 * npm install coffee-script haml-coffee express.io express express-partials serialport
-* Change ```portName``` in ````app.coffee`` to your serial device
+* Change ```portName``` in ```app.coffee``` to your serial device
 * coffee app.coffee
 * Something probably broke. It's Google time!
 * Go to http://localhost:5000
