@@ -14,8 +14,9 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 ## Set up the UI
 * npm install coffee-script haml-coffee express.io express express-partials serialport
 * coffee app.coffee
+* Something probably broke. It's Google time!
 * Go to http://localhost:5000
-* Something probably broke. Time to Google things
+* Something probably broke. It's Google time!
 * Take a look at: [public/app.js](public/app.js) and [views/index.hamlc](views/index.hamlc)
 
 ## Arduino Controls
