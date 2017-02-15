@@ -11,6 +11,7 @@ This project uses this $9 RC car available at Walmart:
 * Red to the positive. Yellow to the negative.
 * Attach Arduino pin 13 to the spot on the controller board marked TP80
 * Attach Arduino pin 12 to the spot on the controller board marked TP81
+* Load back_forward.ino into the Arduino and see if it works
 
 ## Photos
 
