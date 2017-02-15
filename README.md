@@ -7,7 +7,7 @@ NodeJS Arduino RC Car
 
 Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> ???? --> RC Car
 
-## The [hardware hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
+## The [Hardware Hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 
 ## The Arduino Code
 
