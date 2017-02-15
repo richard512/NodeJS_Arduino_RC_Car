@@ -1,7 +1,7 @@
 NodeJS Arduino RC Car
 ===============================
 
-[![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.mp4?raw=true)
+<img src="hardware_hack/wiring_it_up.jpg" width="320" height="320"> ![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)
 
 ## The Idea
 
