@@ -14,6 +14,7 @@ This project uses this $9 RC car available at Walmart:
 * LEFT = Attach Arduino pin 8 to the spot on the controller board marked TP82
 * RIGHT = Attach Arduino pin 7 to the spot on the controller board marked TP83
 * Load back_forward.ino into the Arduino and see if it works
+* If it does: Cooooool! Now try serial_port_controlled_car.ino
 
 ## Photos
 
