@@ -11,7 +11,7 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## The [Arduino Code](serial_port_controlled_car.ino)
 
-## Start the NodeJS Server
+## The Interface
 
 ```
 coffee app.coffee
