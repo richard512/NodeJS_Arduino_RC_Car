@@ -3,11 +3,11 @@ NodeJS Arduino RC Car
 
 [![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.mp4?raw=true)
 
-### Here's the related [hardware hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
-
-## Here's the basic idea
+## The Idea
 
 Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> ???? --> RC Car
+
+## The [hardware hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 
 ## The Arduino Code
 
