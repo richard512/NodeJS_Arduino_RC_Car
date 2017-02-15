@@ -3,7 +3,7 @@ NodeJS Arduino RC Car
 
 [![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.mp4?raw=true)
 
-## The Idea
+## Overview
 
 Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC Car
 
@@ -11,8 +11,7 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## The [Arduino Code](serial_port_controlled_car.ino)
 
-## The Interface
-
+## The UI
 ```
 coffee app.coffee
 ```
