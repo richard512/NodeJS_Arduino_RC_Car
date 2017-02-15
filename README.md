@@ -21,7 +21,7 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 * Change ```portName``` in ```app.coffee``` to your serial device
 * coffee app.coffee
 * Go to http://localhost:5000
-* Take a look at: [NodeJS/public/app.js](NodeJS/public/app.js) and [views/index.hamlc](NodeJS/views/index.hamlc)
+* Take a look at: [NodeJS/public/app.js](NodeJS/public/app.js) and [NodeJS/views/index.hamlc](NodeJS/views/index.hamlc)
 
 ## Arduino Controls
 
@@ -34,10 +34,6 @@ Send the following numbers over a serial port connection :
 * 4 - backward
 * 5 - backward + right
 * 6 - switches all off
-
-## Arduino Dependancies 
-
-* [BasicLibrary](https://github.com/chalkers/BasicLibrary)
 
 
 The MIT License (MIT)
