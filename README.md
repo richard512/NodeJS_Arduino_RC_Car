@@ -3,7 +3,7 @@ NodeJS Arduino RC Car
 
 [![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_touchpad.mp4?raw=true) [![Touchpad Control Video](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_accelerometer.gif?raw=true)](https://github.com/richard512/extremely_remote_controlled_car/blob/master/video_accelerometer.mp4?raw=true)
 
-### Here's the related [hardware hack](http://forefront.io/a/hacking-9-buck-remote-controlled-car-with-arduino/)
+### Here's the related [hardware hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 
 This is the Node.js component to control an Arduino via serial port via a web interface.
 
