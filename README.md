@@ -9,17 +9,9 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## The [Hardware Hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 
-## The Arduino Code
+## The [Arduino Code](serial_port_controlled_car.ino)
 
-Basic operation: back_forward.ino
-
-The fun stuff: serial_port_controlled_car.ino
-
-## Modify it
-
-Edit `app.coffee`.
-
-## Run it
+## Start the NodeJS Server
 
 ```
 coffee app.coffee
