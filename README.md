@@ -9,12 +9,6 @@ Drive a $9 RC Car with your Web Browser!
 
 Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC Car
 
-## The [Hardware Hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
-
-## The [Basic Arduino Code](Arduino/back_forward.ino)
-
-## The [Advanced Arduino Code](Arduino/serial_port_controlled_car.ino)
-
 ## Parts List
 
 * [New Bright 1:24 Scale Radio Control Sports Car](https://www.walmart.com/ip/New-Bright-1-24-Scale-Radio-Control-Sports-Car/24389673)
@@ -24,7 +18,7 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## Instructions
 
-* Do the hardware hack
+* Do the [Hardware Hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 * Hook up your USB to Serial Converter
 * [Load](https://www.arduino.cc/en/Main/Howto) the [Basic Arduino Code](Arduino/back_forward.ino)
 * Load the [Advanced Arduino Code](Arduino/serial_port_controlled_car.ino)
