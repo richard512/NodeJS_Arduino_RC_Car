@@ -15,13 +15,21 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## The [Advanced Arduino Code](Arduino/serial_port_controlled_car.ino)
 
+## Parts List
+
+* [New Bright 1:24 Scale Radio Control Sports Car](https://www.walmart.com/ip/New-Bright-1-24-Scale-Radio-Control-Sports-Car/24389673)
+* [Arduino Uno](https://www.amazon.com/Arduino-Uno-R3-Microcontroller-A000066/dp/B008GRTSV6)
+* [USB to Serial Converter](https://www.amazon.com/TRENDnet-Converter-Prolific-Chipset-TU-S9/dp/B0007T27H8)
+* Soldering iron, solder, breadboard, and wires
+
 ## Instructions
 
-* Do the hardware hack
+* Do the hardware hack. Load the [Basic Arduino Code](Arduino/back_forward.ino) to confirm it works.
+* Load the [Advanced Arduino Code](Arduino/serial_port_controlled_car.ino)
 * Make sure you have NodeJS and npm, then go to the NodeJS dir in command line
 * npm install coffee-script haml-coffee express.io express express-partials serialport
 * Change ```portName``` in ```app.coffee``` to your serial device (Probably a USB to Serial Converter)
-* coffee app.coffee
+* Run ```coffee app.coffee```
 * Go to http://localhost:5000
 * Drive!
 
