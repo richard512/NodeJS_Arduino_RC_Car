@@ -22,7 +22,7 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 * Change ```portName``` in ```app.coffee``` to your serial device (Probably a USB to Serial Converter)
 * coffee app.coffee
 * Go to http://localhost:5000
-* Take a look at: [NodeJS/public/app.js](NodeJS/public/app.js) and [NodeJS/views/index.hamlc](NodeJS/views/index.hamlc)
+* Drive!
 
 ## Arduino Controls
 
