@@ -32,12 +32,12 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 * npm install coffee-script haml-coffee express.io express express-partials serialport
 * Change ```portName``` in ```app.coffee``` to your serial device (Probably a USB to Serial Converter)
 * Run ```coffee app.coffee```
-* Go to http://localhost:5000
+* Go to [http://localhost:5000](http://localhost:5000)
 * Drive!
 
-## Arduino Controls
+## Arduino Commands
 
-Send the following numbers over a serial port connection :
+The Arduino will accept the following commands over a serial port connection:
 
 * 0 - forward + left
 * 1 - forward
