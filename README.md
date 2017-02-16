@@ -5,7 +5,7 @@ NodeJS Arduino RC Car
 
 ## The Idea
 
-Make a web browser able to drive a $9 RC Car.
+Drive a $9 RC Car with your Web Browser!
 
 Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC Car
 
@@ -17,8 +17,9 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 ## Set up the UI
 
+* Go to the NodeJS dir
 * npm install coffee-script haml-coffee express.io express express-partials serialport
-* Change ```portName``` in ```app.coffee``` to your serial device
+* Change ```portName``` in ```app.coffee``` to your serial device (Probably a USB to Serial Converter)
 * coffee app.coffee
 * Go to http://localhost:5000
 * Take a look at: [NodeJS/public/app.js](NodeJS/public/app.js) and [NodeJS/views/index.hamlc](NodeJS/views/index.hamlc)
