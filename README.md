@@ -20,8 +20,8 @@ Web interface --> Node.js --> Serial port --> Arduino --> RC Controller --> RC C
 
 * Do the [Hardware Hack](https://github.com/richard512/NodeJS_Arduino_RC_Car/tree/master/hardware_hack)
 * Hook up your USB to Serial Converter
-* [Load](https://www.arduino.cc/en/Main/Howto) the [Basic Arduino Code](Arduino/back_forward.ino)
-* Load the [Advanced Arduino Code](Arduino/serial_port_controlled_car.ino)
+* [Load](https://www.arduino.cc/en/Main/Howto) the [Basic Arduino Code](Arduino/back_forward.ino) and confirm that it works
+* Load the [Advanced Arduino Code](Arduino/serial_port_controlled_car.ino) and confirm that it works
 * Make sure you have NodeJS and npm, then go to the NodeJS dir in command line
 * npm install coffee-script haml-coffee express.io express express-partials serialport
 * Change ```portName``` in ```app.coffee``` to your serial device (Probably a USB to Serial Converter)
